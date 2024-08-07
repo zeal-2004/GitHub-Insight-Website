@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GitHub-Insight-Website/static/css/main.6c91ad39.css",
+    "main.js": "/GitHub-Insight-Website/static/js/main.2bf51fa1.js",
+    "static/js/453.518a38f5.chunk.js": "/GitHub-Insight-Website/static/js/453.518a38f5.chunk.js",
+    "index.html": "/GitHub-Insight-Website/index.html",
+    "main.6c91ad39.css.map": "/GitHub-Insight-Website/static/css/main.6c91ad39.css.map",
+    "main.2bf51fa1.js.map": "/GitHub-Insight-Website/static/js/main.2bf51fa1.js.map",
+    "453.518a38f5.chunk.js.map": "/GitHub-Insight-Website/static/js/453.518a38f5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c91ad39.css",
+    "static/js/main.2bf51fa1.js"
+  ]
+}
